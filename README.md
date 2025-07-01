@@ -14,13 +14,12 @@ Welcome to the Number Guessing Game! This simple game allows players to guess a 
 
 ## Features
 
-- Randomly generated number within a specified range (1-100).
+- Randomly a number is generated within a specified range (1-100).
 - Feedback on each guess (too high, too low, or correct).
 
 
 ## How to Run the Code
 
-- Change directory to Number_Guessing_Game using **cd Number_Guessing_Game** command.
 - Compile the source code in your C compiler (GCC) and generate the executable file using **gcc number_guessing_game.c -o number_guessing_game.exe** command.
 - Run the source code using **./number_guessing_game.exe** command.
 
